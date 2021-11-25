@@ -1,2 +1,2 @@
-Deployed Site Link - https://cranky-wing-4578a3.netlify.app/
+Deployed Site Link - https://mscscheduler.netlify.app/
 
