@@ -222,7 +222,7 @@ class Registration extends Component {
                 </div>
                 <div className="mv3">
                   <select
-                    className="b pa2 input-reset ba bg-transparent hover-bg-black hover-white w-100"
+                    className="b pa2 input-reset bg-transparent hover-bg-black  w-100"
                     onChange={this.changeOfflineonline}
                     value={this.state.offline_online}
                   >
