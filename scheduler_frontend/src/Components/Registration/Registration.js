@@ -61,19 +61,7 @@ class Registration extends Component {
     event.preventDefault();
     console.log(this.state);
 
-    // Add vaildation for all state here
-
-    //
-    //
-    //
-    //
-    //
-    //
-    //
-    //
-    //
-
-    //
+    
     const { seats, offline_online } = this.state;
     if (this.state.seats === null) {
       alert("First click on Find available seats");
