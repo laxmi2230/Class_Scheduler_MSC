@@ -1,3 +1,5 @@
+Refer to "Class Scheduler Documentation" for all details regrding to project (Format - In word document).
+
 # Deployed Site Link - 
 https://mscscheduler.netlify.app/
 
