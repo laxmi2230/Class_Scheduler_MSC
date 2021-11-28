@@ -1,4 +1,4 @@
-## Refer to "Class Scheduler web App Documentation" for all details regarding to project (Format - In word document).
+## Refer to "Class Scheduler web app Documentation" for all details regarding to project (Format - In word document).
 
 # Deployed Site Link - 
 https://mscscheduler.netlify.app/
