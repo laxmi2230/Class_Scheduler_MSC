@@ -4,9 +4,10 @@ const bcrypt = require("bcrypt")
 const User = require("../DB/User");
 const route = express.Router();
 
-route.get("/gunjan", async (req, res) => {
-  res.send("Hey hi Gunjan");
-});
+{/*route.get("/Laxmi", async (req, res) => {
+  res.send("Hey hi Laxmi");
+}); */}
+
 
 route.post("/", async (req, res) => {
 
